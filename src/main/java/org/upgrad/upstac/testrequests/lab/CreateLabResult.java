@@ -1,7 +1,5 @@
 package org.upgrad.upstac.testrequests.lab;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
 import lombok.Data;
 
 import javax.validation.constraints.NotNull;
